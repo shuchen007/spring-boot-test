@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-controller-advice/spring-boot-controller-advice.iml" filepath="$PROJECT_DIR$/spring-boot-controller-advice/spring-boot-controller-advice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-data-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid/spring-boot-data-jpa-easyui-datagrid.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid/spring-boot-data-jpa-easyui-datagrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid-cache/spring-boot-data-jpa-easyui-datagrid-cache.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid-cache/spring-boot-data-jpa-easyui-datagrid-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid-i18n/spring-boot-data-jpa-easyui-datagrid-i18n.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid-i18n/spring-boot-data-jpa-easyui-datagrid-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid-i18n-data/spring-boot-data-jpa-easyui-datagrid-i18n-data.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa-easyui-datagrid-i18n-data/spring-boot-data-jpa-easyui-datagrid-i18n-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa-easyui-edatagrid/spring-boot-data-jpa-easyui-edatagrid.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa-easyui-edatagrid/spring-boot-data-jpa-easyui-edatagrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa-easyui-validate/spring-boot-data-jpa-easyui-validate.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa-easyui-validate/spring-boot-data-jpa-easyui-validate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" filepath="$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-distributed-session/spring-boot-distributed-session.iml" filepath="$PROJECT_DIR$/spring-boot-distributed-session/spring-boot-distributed-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dynamic-scheduled-task/spring-boot-dynamic-scheduled-task.iml" filepath="$PROJECT_DIR$/spring-boot-dynamic-scheduled-task/spring-boot-dynamic-scheduled-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-easypoi-execl-download/spring-boot-easypoi-execl-download.iml" filepath="$PROJECT_DIR$/spring-boot-easypoi-execl-download/spring-boot-easypoi-execl-download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-email/spring-boot-email.iml" filepath="$PROJECT_DIR$/spring-boot-email/spring-boot-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-freemarker-word-download/spring-boot-freemarker-word-download.iml" filepath="$PROJECT_DIR$/spring-boot-freemarker-word-download/spring-boot-freemarker-word-download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello-world/spring-boot-hello-world.iml" filepath="$PROJECT_DIR$/spring-boot-hello-world/spring-boot-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-https/spring-boot-https.iml" filepath="$PROJECT_DIR$/spring-boot-https/spring-boot-https.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-itext-pdf-download/spring-boot-itext-pdf-download.iml" filepath="$PROJECT_DIR$/spring-boot-itext-pdf-download/spring-boot-itext-pdf-download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jsoup/spring-boot-jsoup.iml" filepath="$PROJECT_DIR$/spring-boot-jsoup/spring-boot-jsoup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scheduled-task/spring-boot-scheduled-task.iml" filepath="$PROJECT_DIR$/spring-boot-scheduled-task/spring-boot-scheduled-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-swagger/spring-boot-swagger.iml" filepath="$PROJECT_DIR$/spring-boot-swagger/spring-boot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tutorial.iml" filepath="$PROJECT_DIR$/spring-boot-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-xml/spring-boot-xml.iml" filepath="$PROJECT_DIR$/spring-boot-xml/spring-boot-xml.iml" />
+    </modules>
+  </component>
+</project>

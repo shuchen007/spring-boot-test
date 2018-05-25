@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-devtools" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-devtools" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa-easyui-datagrid" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa-easyui-datagrid" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-mybatis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-mybatis" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-jdbc" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-jdbc" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-hello-world" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-hello-world" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-controller-advice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-controller-advice" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-dynamic-scheduled-task" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-dynamic-scheduled-task" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa-easyui-datagrid-i18n" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa-easyui-datagrid-i18n" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-easypoi-execl-download" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-easypoi-execl-download" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-scheduled-task" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-scheduled-task" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-freemarker-word-download" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-freemarker-word-download" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-jsoup" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-jsoup" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa-easyui-edatagrid" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa-easyui-edatagrid" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-swagger" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-swagger" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-redis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-redis" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-xml" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-xml" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-elasticsearch" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-elasticsearch" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-distributed-session" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-distributed-session" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-itext-pdf-download" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-itext-pdf-download" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa-easyui-validate" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa-easyui-validate" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa-easyui-datagrid-i18n-data" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa-easyui-datagrid-i18n-data" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-data-jpa-easyui-datagrid-cache" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-data-jpa-easyui-datagrid-cache" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-email" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-email" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-https" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-https" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-controller-advice" target="1.8" />
+      <module name="spring-boot-data-jpa" target="1.8" />
+      <module name="spring-boot-data-jpa-easyui-datagrid" target="1.8" />
+      <module name="spring-boot-data-jpa-easyui-datagrid-cache" target="1.8" />
+      <module name="spring-boot-data-jpa-easyui-datagrid-i18n" target="1.8" />
+      <module name="spring-boot-data-jpa-easyui-datagrid-i18n-data" target="1.8" />
+      <module name="spring-boot-data-jpa-easyui-edatagrid" target="1.8" />
+      <module name="spring-boot-data-jpa-easyui-validate" target="1.8" />
+      <module name="spring-boot-devtools" target="1.8" />
+      <module name="spring-boot-distributed-session" target="1.8" />
+      <module name="spring-boot-dynamic-scheduled-task" target="1.8" />
+      <module name="spring-boot-easypoi-execl-download" target="1.8" />
+      <module name="spring-boot-elasticsearch" target="1.8" />
+      <module name="spring-boot-email" target="1.8" />
+      <module name="spring-boot-freemarker-word-download" target="1.8" />
+      <module name="spring-boot-hello-world" target="1.8" />
+      <module name="spring-boot-https" target="1.8" />
+      <module name="spring-boot-itext-pdf-download" target="1.8" />
+      <module name="spring-boot-jdbc" target="1.8" />
+      <module name="spring-boot-jsoup" target="1.8" />
+      <module name="spring-boot-mybatis" target="1.8" />
+      <module name="spring-boot-redis" target="1.8" />
+      <module name="spring-boot-scheduled-task" target="1.8" />
+      <module name="spring-boot-swagger" target="1.8" />
+      <module name="spring-boot-tutorial" target="1.5" />
+      <module name="spring-boot-xml" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
