@@ -1,0 +1,17 @@
+server:
+    port: 8091
+person:
+    id: 34
+    age: 24
+    name: 孙皓1
+    hap:
+     - dfs
+     - df
+    list:
+     - fd
+     - fas
+    map: {er: as,fd: fda}
+    dog:
+      id: 34
+      name: fjkl
+

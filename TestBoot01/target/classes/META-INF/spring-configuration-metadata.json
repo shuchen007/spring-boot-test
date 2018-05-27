@@ -1,0 +1,48 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person",
+      "type": "com.sun.test.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.sun.test.Person",
+      "defaultValue": 0,
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person.dog",
+      "type": "com.sun.test.Dog"
+    },
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person.hap",
+      "type": "java.lang.String[]"
+    },
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person.id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person.list",
+      "type": "java.util.List"
+    },
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person.map",
+      "type": "java.util.Map"
+    },
+    {
+      "sourceType": "com.sun.test.Person",
+      "name": "person.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
